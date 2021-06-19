@@ -12,8 +12,8 @@
 # Comentários sobre o meu trabalho:
 
  - v1.1 -> Criei o Content Type Eventos;
- - v1.2 -> Adicionei o tema chamdo "Mayo";
- - v1.3 -> Criei um módulo que adiciona um block no banner top da página com os links dos eventos.
+ - v1.2 -> Adicionei um tema chamado "Mayo";
+ - v1.3 -> Criei um módulo que adiciona um block no banner top da página com os links para os nodes dos eventos.
 
 # Preparando o ambiente de desenvolvimento
 Os items da lista abaixo é uma forma de preparar o ambiente local usando "Xampp":
