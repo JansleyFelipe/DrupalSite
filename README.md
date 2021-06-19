@@ -8,12 +8,12 @@ v1.1: Criar um Content Type de eventos e registrar alguns eventos no CMS. Conter
 v1.2: Adicionar um tema da comunidade e ativar ele para mudar a aparência do site.
 v1.3: Criação de um módulo custom, seguir a estrutura de módulos indicada pelo site da comunidade do Drupal. Esse módulo deve criar um Block (usando hooks) que vai adicionar um conteúdo simples nas páginas de eventos (texto e/ou imagem).
 
-Comentários sobre o meu trabalho:
+# Comentários sobre o meu trabalho:
 v1.1 -> Criei o Content Type Eventos;
 v1.2 -> Adicionei o tema chamdo "Mayo";
 v1.3 -> Criei um módulo que adiciona um block no banner top da página com os links dos eventos.
 
-Preparando o ambiente de desenvolvimento
+# Preparando o ambiente de desenvolvimento
 Os items da lista abaixo é uma forma de preparar o ambiente local usando "Xampp":
 
 Local
