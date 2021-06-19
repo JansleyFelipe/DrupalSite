@@ -12,3 +12,13 @@ Comentários sobre o meu trabalho:
 v1.1 -> Criei o Content Type Eventos;
 v1.2 -> Adicionei o tema chamdo "Mayo";
 v1.3 -> Criei um módulo que adiciona um block no banner top da página com os links dos eventos.
+
+Preparando o ambiente de desenvolvimento
+Os items da lista abaixo é uma forma de preparar o ambiente local usando "Xampp":
+
+Local
+Baixe e instale o "Xampp" na versão 7.3.28 / PHP 7.3.28 no seguinte link -> https://www.apachefriends.org/pt_br/download.html;
+Clone este repositório na pasta "xampp/htdocs";
+Dê um start no apache e mysql do "xampp";
+Entre em http://localhost/phpmyadmin, crie um database para o site em drupal e faça um import utilizando uns dos dump em .sql encontradas no root do repositório (drupalsite_v1-1.sql, drupalsite_v1-2.sql ou drupalsite_v1-3.sql);
+Acesse http://localhost/DrupalSite, faça as configurações básicas da aplicação básicas como o nome do database, linguagem e na última etapa escolha "visualizar site existente".
