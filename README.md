@@ -23,4 +23,4 @@ Os items da lista abaixo é uma forma de preparar o ambiente local usando "Xampp
  2. Clone este repositório na pasta "xampp/htdocs";
  3. Dê um start no apache e mysql do "xampp";
  4. Entre em http://localhost/phpmyadmin, crie um database para o site em drupal e faça um import utilizando uns dos dump em .sql encontradas no root do repositório (drupalsite_v1-1.sql, drupalsite_v1-2.sql ou drupalsite_v1-3.sql);
- 5. Acesse http://localhost/DrupalSite, faça as configurações básicas da aplicação básicas como o nome do database, linguagem e na última etapa escolha "visualizar site existente".
+ 5. Acesse http://localhost/DrupalSite.
